@@ -1,0 +1,426 @@
+        <!-- Start Team -->
+        <div class="col-sm-6 col-lg-3 col-xl-3 infinite-item-mxm see2th animated fadeIn">
+          <div class="team wow move-up animate">
+            <div class="team__side">
+              <a href="team_detail_001.html" class="team__picture">
+                <img src="images/team-b-09.jpg" alt="team">
+              </a>
+              <div class="team__social">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-dribbble"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-behance"></i>
+                    </a>
+                  </li>
+
+                </ul>
+              </div> 
+           
+            </div>
+            <h3 class="team__name">
+              <a href="#" class="heading-6th--dark-hi-hover">
+              Stephen Bowen
+              </a>
+            </h3>
+            <h5 class="team__role">
+              <a href="#" class="heading-9th--dark-hi-hover-uppercase">
+              Graphic Designer
+              </a>
+            </h5>
+            <p class="team__paragraph paragraph-2th--dark-md-hyphens">
+              Faciti sociosqu ad litora torquent per conubia nostra inceptos.
+            </p>
+
+          </div>
+        </div>
+        <!-- End Team -->
+
+        <!-- Start Team -->
+        <div class="col-sm-6 col-lg-3 col-xl-3 infinite-item-mxm see2th animated fadeIn">
+          <div class="team wow move-up animate">
+            <div class="team__side">
+              <a href="team_detail_001.html" class="team__picture">
+                <img src="images/team-b-10.jpg" alt="team">
+              </a>
+              <div class="team__social">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-dribbble"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-behance"></i>
+                    </a>
+                  </li>
+
+                </ul>
+              </div> 
+           
+            </div>
+            <h3 class="team__name">
+              <a href="#" class="heading-6th--dark-hi-hover">
+              Ramon Jensen
+              </a>
+            </h3>
+            <h5 class="team__role">
+              <a href="#" class="heading-9th--dark-hi-hover-uppercase">
+              Photography
+              </a>
+            </h5>
+            <p class="team__paragraph paragraph-2th--dark-md-hyphens">
+              Faciti sociosqu ad litora torquent per conubia nostra inceptos.
+            </p>
+
+          </div>
+        </div>
+        <!-- End Team -->
+
+        <!-- Start Team -->
+        <div class="col-sm-6 col-lg-3 col-xl-3 infinite-item-mxm see2th animated fadeIn">
+          <div class="team wow move-up animate">
+            <div class="team__side">
+              <a href="team_detail_001.html" class="team__picture">
+                <img src="images/team-b-11.jpg" alt="team">
+              </a>
+              <div class="team__social">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-dribbble"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-behance"></i>
+                    </a>
+                  </li>
+
+                </ul>
+              </div> 
+           
+            </div>
+            <h3 class="team__name">
+              <a href="#" class="heading-6th--dark-hi-hover">
+              Marquise Vasquez
+              </a>
+            </h3>
+            <h5 class="team__role">
+              <a href="#" class="heading-9th--dark-hi-hover-uppercase">
+              Wordpress
+              </a>
+            </h5>
+            <p class="team__paragraph paragraph-2th--dark-md-hyphens">
+              Faciti sociosqu ad litora torquent per conubia nostra inceptos.
+            </p>
+
+          </div>
+        </div>
+        <!-- End Team -->
+
+        <!-- Start Team -->
+        <div class="col-sm-6 col-lg-3 col-xl-3 infinite-item-mxm see2th animated fadeIn">
+          <div class="team wow move-up animate">
+            <div class="team__side">
+              <a href="team_detail_001.html" class="team__picture">
+                <img src="images/team-b-12.jpg" alt="team">
+              </a>
+              <div class="team__social">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-dribbble"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-behance"></i>
+                    </a>
+                  </li>
+
+                </ul>
+              </div> 
+           
+            </div>
+            <h3 class="team__name">
+              <a href="#" class="heading-6th--dark-hi-hover">
+              Desmond Cortez
+              </a>
+            </h3>
+            <h5 class="team__role">
+              <a href="#" class="heading-9th--dark-hi-hover-uppercase">
+              Seo
+              </a>
+            </h5>
+            <p class="team__paragraph paragraph-2th--dark-md-hyphens">
+              Faciti sociosqu ad litora torquent per conubia nostra inceptos.
+            </p>
+
+          </div>
+        </div>
+        <!-- End Team -->
+
+        <!-- Start Team -->
+        <div class="col-sm-6 col-lg-3 col-xl-3 infinite-item-mxm see2th animated fadeIn">
+          <div class="team wow move-up animate">
+            <div class="team__side">
+              <a href="team_detail_001.html" class="team__picture">
+                <img src="images/team-b-13.jpg" alt="team">
+              </a>
+              <div class="team__social">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-dribbble"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-behance"></i>
+                    </a>
+                  </li>
+
+                </ul>
+              </div> 
+           
+            </div>
+            <h3 class="team__name">
+              <a href="#" class="heading-6th--dark-hi-hover">
+              Catherine Lewis
+              </a>
+            </h3>
+            <h5 class="team__role">
+              <a href="#" class="heading-9th--dark-hi-hover-uppercase">
+              Photography
+              </a>
+            </h5>
+            <p class="team__paragraph paragraph-2th--dark-md-hyphens">
+              Faciti sociosqu ad litora torquent per conubia nostra inceptos.
+            </p>
+
+          </div>
+        </div>
+        <!-- End Team -->
+
+        <!-- Start Team -->
+        <div class="col-sm-6 col-lg-3 col-xl-3 infinite-item-mxm see2th animated fadeIn">
+          <div class="team wow move-up animate">
+            <div class="team__side">
+              <a href="team_detail_001.html" class="team__picture">
+                <img src="images/team-b-14.jpg" alt="team">
+              </a>
+              <div class="team__social">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-dribbble"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-behance"></i>
+                    </a>
+                  </li>
+
+                </ul>
+              </div> 
+           
+            </div>
+            <h3 class="team__name">
+              <a href="#" class="heading-6th--dark-hi-hover">
+             Tori Oconnor
+              </a>
+            </h3>
+            <h5 class="team__role">
+              <a href="#" class="heading-9th--dark-hi-hover-uppercase">
+              Graphic Designer
+              </a>
+            </h5>
+            <p class="team__paragraph paragraph-2th--dark-md-hyphens">
+              Faciti sociosqu ad litora torquent per conubia nostra inceptos.
+            </p>
+
+          </div>
+        </div>
+        <!-- End Team -->
+
+        <!-- Start Team -->
+        <div class="col-sm-6 col-lg-3 col-xl-3 infinite-item-mxm see2th animated fadeIn">
+          <div class="team wow move-up animate">
+            <div class="team__side">
+              <a href="team_detail_001.html" class="team__picture">
+                <img src="images/team-b-08.jpg" alt="team">
+              </a>
+              <div class="team__social">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-dribbble"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-behance"></i>
+                    </a>
+                  </li>
+
+                </ul>
+              </div> 
+           
+            </div>
+            <h3 class="team__name">
+              <a href="#" class="heading-6th--dark-hi-hover">
+              Stephen Bowen
+              </a>
+            </h3>
+            <h5 class="team__role">
+              <a href="#" class="heading-9th--dark-hi-hover-uppercase">
+              Graphic Designer
+              </a>
+            </h5>
+            <p class="team__paragraph paragraph-2th--dark-md-hyphens">
+              Faciti sociosqu ad litora torquent per conubia nostra inceptos.
+            </p>
+
+          </div>
+        </div>
+        <!-- End Team -->
+
+        <!-- Start Team -->
+        <div class="col-sm-6 col-lg-3 col-xl-3 infinite-item-mxm see2th animated fadeIn">
+          <div class="team wow move-up animate">
+            <div class="team__side">
+              <a href="team_detail_001.html" class="team__picture">
+                <img src="images/team-b-06.jpg" alt="team">
+              </a>
+              <div class="team__social">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-dribbble"></i>
+                    </a>
+                  </li>
+                  
+                  <li>
+                    <a href="#">
+                      <i class="fab fa-behance"></i>
+                    </a>
+                  </li>
+
+                </ul>
+              </div> 
+           
+            </div>
+            <h3 class="team__name">
+              <a href="#" class="heading-6th--dark-hi-hover">
+              Marquise Vasquez
+              </a>
+            </h3>
+            <h5 class="team__role">
+              <a href="#" class="heading-9th--dark-hi-hover-uppercase">
+              Wordpress
+              </a>
+            </h5>
+            <p class="team__paragraph paragraph-2th--dark-md-hyphens">
+              Faciti sociosqu ad litora torquent per conubia nostra inceptos.
+            </p>
+
+          </div>
+        </div>
+        <!-- End Team -->
+
+
+
